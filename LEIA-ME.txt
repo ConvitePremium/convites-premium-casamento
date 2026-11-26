@@ -1,0 +1,3 @@
+CONVITE INFINITO V4
+Suba index.html, config.js e a pasta assets na raiz do repositorio. Substitua as quatro midias provisórias pelos arquivos definitivos, mantendo os nomes. Preview: 1200 x 630 JPEG. Arte: proporção 28:304,8. Editor: https://convitepremium.github.io/convites-premium-casamento/?editor=1
+Selecione o elemento, clique Posicionar, role e clique na arte. Arraste ou redimensione pela alça. Exporte JSON e substitua o objeto de config.js mantendo window.INVITE = antes e ; depois. Salvar no navegador não publica alterações. O editor não possui autenticação. O vídeo de teste é uma capa estática de dois segundos.
